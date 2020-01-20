@@ -1,6 +1,6 @@
 
 
-const url = "http://api.openweathermap.org/data/2.5/weather?q=washingtondc&APPID=4b79ea98e1380c1f6987c30f4703b089"
+const url = "http://api.openweathermap.org/data/2.5/weather?q=hyattsville&APPID=4b79ea98e1380c1f6987c30f4703b089"
 
 
 $.ajax ({

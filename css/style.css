@@ -2,3 +2,20 @@ body{
     background-color: rgb(47, 10, 177);
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
+
+.header{
+    text-align: center;
+    margin-bottom: 100px;
+
+}
+
+.data{
+    margin-left:20vw;
+}
+
+.box {
+    border: 3px solid pink;
+    margin-right: 50vw;
+    padding: 20px;
+    background-color: pink;
+}

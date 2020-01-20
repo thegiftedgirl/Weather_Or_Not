@@ -1,6 +1,6 @@
 Weather Or Not
 
-An app using a weather api allowing users to check on the weather and decided what may be appropriate to wear and style hair according the their location and the daily weather.
+An app using a weather api allowing users to check on the weather whilst simultaneously helping the user decide what may be appropriate to wear and style hair according to the their location and the daily weather expectations.
 
 
 AAU should be able to get information on location weather for day.
